@@ -1,4 +1,6 @@
 ### Hi there 👋
+This is for test
+Added more text in read me
 
 <!--
 **frenzydeets/frenzydeets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
